@@ -1,0 +1,150 @@
+/* 
+
+         ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ 
+         ❤                                       ❤
+         ❤                ʕっ•ᴥ•ʔっ               ❤
+         ❤             CODES BY TYEFS            ❤
+         ❤                 @tyefs                ❤
+         ❤                                       ❤
+         ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤
+CORES: 
+azul: #ace3ee
+cinza: #808080
+cinza claro: #DCDCDC
+
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'DM Serif Display', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Alegreya Sans SC', sans-serif;
+*/
+
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display|Julius+Sans+One|Libre+Barcode+128+Text|Montserrat+Alternates|Raleway:200|Sacramento|Shadows+Into+Light|Source+Code+Pro|Source+Sans+Pro:300&display=swap');
+
+/*-----------------------------body css----------------------------------*/
+h1{
+    color:#f3b0a6;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: px;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 15px;
+    color: #808080;
+    background-color: #FFFFFF;;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/*---------------------------barrinha css---------------------------------*/
+#barrinha{
+    height: 5px;
+    width: 100%;
+    position: fixed;
+    background-color:#FFE4C4;
+    top: 0;
+    left: 0;   
+}
+/*---------------------------sidebar css----------------------------------*/
+aside{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 20%;
+    position: fixed;
+    top: 25px;
+    display: table;
+    border-bottom: 1px solid;
+    border-color: #DCDCDC;
+    
+}
+
+#sidebar{
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    position: relative;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom: 20px;
+}
+
+#avatar{
+    width: 150px;
+    margin: 0 auto;
+}
+
+#avatar img {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    padding: 2px;
+    border: 2px solid;
+    border-radius: 200px;
+    border-color:#f3b0a6; 
+}
+
+#nome{
+    color:#f3b0a6;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 17px;
+}
+
+#titulo{
+    background: rgb(243,176,166);
+    background: linear-gradient(90deg, rgba(243,176,166,1) 35%, rgba(172,227,238,1) 100%);
+    padding: 2px 5px;
+    letter-spacing: 1px;
+    border-radius: 9px;
+    text-transform: uppercase;
+    display: inline;
+    width: 270px;
+    margin: 0 auto;
+    color:#ffffff;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 8px;
+}
+#descri{
+    border: 1px solid;
+    border-color: #f3b0a6;
+    padding: 0 12px;
+    margin: 10px auto;
+    width: 40%;
+}
+#descri spam{
+    display: block;
+    padding: 10px;
+    background-color: #FFFFFF;
+    position:relative;
+    line-height: 16px;
+    margin-top: -1px;
+    margin-bottom: -1px;
+    font-size: 13px;
+    text-align: center;
+    color: #808080;
+}
+
+/*---------------------------conteúdo css----------------------------------*/
+
+#back img{
+    position: absolute;
+    left: 12%;
+    top: 52 %;
+    
+}
+
+
+
+
+
+
+
