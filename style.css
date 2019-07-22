@@ -136,9 +136,9 @@ aside{
 /*---------------------------conteúdo css----------------------------------*/
 
 #back img{
-    position: absolute;
-    left:12%;
-    top:52%;
+     position: absolute;
+    left: 12%;
+    margin-top: 25%;
     
 }
 
